@@ -1,0 +1,5 @@
+div[data-testid="stChatInput"] {
+  position: fixed;
+  bottom: 30px;
+  z-index: 100;
+}

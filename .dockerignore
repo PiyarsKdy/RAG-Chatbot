@@ -1,0 +1,6 @@
+frontend/
+__pycache__
+.gitignore
+rds_connection.py
+README.md
+temp.py

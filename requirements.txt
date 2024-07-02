@@ -1,0 +1,14 @@
+uvicorn
+openai
+fastapi
+PyPDF2
+python-dotenv
+requests
+bs4
+mysql-connector-python
+fastapi-sessions
+python-multipart
+google
+google-api-python-client
+pytz
+boto3
